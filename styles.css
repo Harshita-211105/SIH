@@ -1,0 +1,12 @@
+.navbar{
+    width: 100%;
+    height: 50px;
+    background-color: #17252A;
+}
+body{
+    margin: 0%;
+}
+.navbar-menu-img{
+    color: white;
+    padding-left: 8px;
+}
